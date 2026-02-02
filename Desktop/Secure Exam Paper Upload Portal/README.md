@@ -1,4 +1,4 @@
-# 🔒 Secure Exam Paper Release Portal
+# 🔒 Secure Exam Paper Upload Portal
 
 A secure web-based system for controlled storage and release of examination papers using modern cryptographic techniques, multi-factor authentication, and role-based access control.
 
@@ -6,7 +6,7 @@ A secure web-based system for controlled storage and release of examination pape
 
 ## 📌 Overview
 
-The **Secure Exam Paper Release Portal** is designed to ensure confidentiality, integrity, and controlled access to examination papers throughout their lifecycle — from upload to final release.
+The **Secure Exam Paper Upload Portal** is designed to ensure confidentiality, integrity, and controlled access to examination papers throughout their lifecycle — from upload to final release.
 
 The system implements **industry-standard cryptographic mechanisms**, **policy-based authorization**, and **comprehensive audit logging** to mitigate common security threats such as unauthorized access, brute-force attacks, and data tampering.
 
